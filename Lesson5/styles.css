@@ -1,0 +1,38 @@
+/* Grid layout cho post list */
+#post-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Style cho từng post card */
+.post-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+/* Hover effect cho post card */
+.post-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Style cho title trong card */
+.post-card h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 18px;
+}
+
+/* Style cho body text trong card */
+.post-card p {
+    margin: 0;
+    color: #666;
+    line-height: 1.6;
+}
