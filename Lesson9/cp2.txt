@@ -5,4 +5,5 @@ Các file có trong folder:
 - index.html 
 - styles.css
 - script.js
+- weather-data.json
 - tracnghiem.txt (ghi các đáp án trắc nghiệm vào file này)

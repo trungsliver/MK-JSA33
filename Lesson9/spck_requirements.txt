@@ -1,0 +1,23 @@
+1. Nội dung đã học:
+    - javascript cơ bản
+    - DOM - document object model
+    - API: lấy dữ liệu từ file js, json, api (server)
+    - localStorage: lưu trữ dữ liệu trên trình duyệt
+    - chatbot AI
+
+2. Gợi ý:
+    - Thống nhất ý tưởng SPCK
+    - API: tự tạo file dữ json cho toàn bộ sản phẩm của website
+    - Liệt kê các webpage có trong website vào chức năng tương ứng
+    - Thiết kế header-footer chung cho toàn bộ website
+    - Thiết kế main-content cho từng webpage
+    - Lưu ý: 
+        + Bắt buộc có responsive (media query)
+        + Phân chia cấu trúc folder (folder css, folder js, folder img,...)
+    - Gợi ý chức năng:
+        + Đăng ký - Đăng nhập - Đăng xuất: đã làm mẫu bài 7 (localStorage)
+        + Giỏ hàng: thêm - sửa - xóa sản phẩm trong giỏ hàng (localStorage)
+        + Dark mode: chuyển đổi giao diện sáng - tối (localStorage)
+        + Tìm kiếm sản phẩm: làm giống CP2
+        + Lọc sản phẩm theo danh mục (thêm trường category vào mỗi sp trong file json)
+        + Chatbot AI: làm giống bài 8
