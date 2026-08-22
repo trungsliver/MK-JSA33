@@ -1,0 +1,8 @@
+Quy tắc đặt tên folder cho CP1: [TenLop]_[HoTen]_CP2
+Ví dụ: JSA33_BuiDucTrung_CP2
+
+Các file có trong folder:
+- index.html 
+- styles.css
+- script.js
+- tracnghiem.txt (ghi các đáp án trắc nghiệm vào file này)
